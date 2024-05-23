@@ -1,1 +1,3 @@
-# my-app
+## MY_APP
+  Olá usuario, estou desenvolvendo esse projeto para explorar e ganhar maestria com grandes dados ou projeto grandes, por isso pode ficar confuso...
+    Mas, espero deixar o mais intuitivo possivel
